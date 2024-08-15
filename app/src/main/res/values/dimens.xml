@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="tv_tittle">20sp</dimen>
+    <dimen name="tv_subtittle">15sp</dimen>
+    <dimen name="tv_subtittle_2">18sp</dimen>
+    <dimen name="tv_text">12sp</dimen>
+</resources>
